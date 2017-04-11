@@ -1,0 +1,10 @@
+{
+    "calls": {
+        "AAC": {
+            "method": "get",
+            "name": "API Call",
+            "publish_as": "data"
+        }
+    },
+    "human": "Stripe"
+}
